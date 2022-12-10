@@ -26,3 +26,12 @@ Please view the docx. file for the full set of instructions.
 3) Join the ladder 
 4) Withdraw from the ladder
 5) Make a query
+
+### Data Files
+1) ladder.txt
+  - Contains current order of the ladder
+2) data.txt
+  - Contains data on every challenge, and 
+  - The coming and going of players. 
+  - Chronological order, with the latest data inserted at the end of the file.
+  

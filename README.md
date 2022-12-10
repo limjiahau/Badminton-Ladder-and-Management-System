@@ -7,9 +7,11 @@ Main Selection Screen:
 ![image](https://user-images.githubusercontent.com/65124287/206387679-6a4920d6-2b1a-4b13-ba66-11a72adb1b87.png)
 
 Introduction of Project:
+
 Develop a data management program for managing a badminton ladder. Players are placed in an ordered list and can challenge others who are ranked higher. 
 
 How to Run the Program:
+
 Running the "main.py" file will lead you to the Main Selection Screen as shown. The helper files, "load.py", "actions.py", "queries.py" are additional code for the program to run as intended. 
 Please view the docx. file for the full set of instructions. 
 

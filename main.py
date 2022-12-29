@@ -71,11 +71,11 @@ def draw():
     turtle.up()
     turtle.goto(400,-220)
     turtle.down()
-    turtle.write("Done by: Lim Jia Hau (U2020043A)", False, align="center", font=("Arial", 14, "bold"))
-    turtle.up()
-    turtle.goto(292,-240)
-    turtle.down()
-    turtle.write("Class: PT1", False, align="center", font=("Arial", 14, "bold"))
+    turtle.write("Done by: Lim Jia Hau", False, align="center", font=("Arial", 14, "bold"))
+    # turtle.up()
+    # turtle.goto(292,-240)
+    # turtle.down()
+    # turtle.write("Class: PT1", False, align="center", font=("Arial", 14, "bold"))
 
     # draw the title
     turtle.up()

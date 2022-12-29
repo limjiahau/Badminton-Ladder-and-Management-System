@@ -10,7 +10,6 @@ Develop a data management program for managing a badminton ladder. Players are p
 ### How to Run the Program:
 
 Running the "main.py" file will lead you to the Main Selection Screen as shown. The helper files, "load.py", "actions.py", "queries.py" are additional code for the program to run as intended. 
-Please view the docx. file for the full set of instructions. 
 
 ### Rules:
 1) A player on the ladder may only challenge another player up to three ranks above. 

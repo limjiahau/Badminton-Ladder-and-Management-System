@@ -5,7 +5,7 @@
 
 ### Introduction of Project:
 
-Develop a data management program for managing a badminton ladder. Players are placed in an ordered list and can challenge others who are ranked higher. 
+Developed a data management program for managing a badminton ladder. Players are placed in an ordered list and can challenge others who are ranked higher. 
 
 ### How to Run the Program:
 

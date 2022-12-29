@@ -1,7 +1,7 @@
 # Badminton-Ladder-and-Management-System
 
 ### Main Selection Screen:
-![image](https://user-images.githubusercontent.com/65124287/206387679-6a4920d6-2b1a-4b13-ba66-11a72adb1b87.png)
+![image](https://github.com/limjiahau/Badminton-Ladder-and-Management-System/blob/9da36f24710f89986d4a7a04e788de79e5bcf52a/badminton.JPG)
 
 ### Introduction of Project:
 
